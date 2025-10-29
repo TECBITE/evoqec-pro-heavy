@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+evoqec-env/
+env/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+
+# Logs and databases
+*.log
+*.db
+
+# Media files
+*.pdf
+*.png
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Large binary files
+*.dll
+*.so
+*.dylib
+*.pyd
+torch/
+
+# Project specific
+redis/
